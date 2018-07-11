@@ -1,0 +1,16 @@
+{
+  "name": "ios-webkit",
+  "version": "1.0.0",
+  "description": "useragent webkit ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ios", "webkit", "ios info"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x0a0d/ios-webkit"
+  },
+  "author": "0x0a0d",
+  "license": "ISC"
+}
